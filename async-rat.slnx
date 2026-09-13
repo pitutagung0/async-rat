@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/async-rat.Client/async-rat.Client.csproj" />
+    <Project Path="src/async-rat.Panel/async-rat.Panel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/async-rat.Client.Tests/async-rat.Client.Tests.csproj" />
+  </Folder>
+</Solution>
