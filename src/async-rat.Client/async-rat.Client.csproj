@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>AsyncRat.Client</RootNamespace>
+    <AssemblyName>AsyncRat.Client</AssemblyName>
+  </PropertyGroup>
+</Project>
